@@ -1,0 +1,5 @@
+io/confluent/connect/avro/AvroConverterHSRDynamicSchemaIdTest.class
+io/confluent/connect/avro/AvroConverterDynamicSchemaIdTest.class
+io/confluent/connect/avro/mockHSR.class
+io/confluent/connect/avro/AvroConverterTest.class
+io/confluent/connect/avro/DeprecatedTestTopicNameStrategy.class

@@ -1,0 +1,19 @@
+{
+  "type": "record",
+  "name": "Employee",
+  "namespace": "org.hifly.kafka.demo.producer.serializer.avro",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "empid",
+      "type": "string"
+    },
+    {
+      "name": "gender",
+      "type": "string"
+   }
+  ]
+}

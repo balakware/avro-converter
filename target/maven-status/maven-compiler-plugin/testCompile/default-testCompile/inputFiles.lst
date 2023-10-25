@@ -1,0 +1,5 @@
+/Users/bar/Documents/igpoc/confluent-sr-latest/schema-registry/avro-converter/src/test/java/io/confluent/connect/avro/AvroConverterTest.java
+/Users/bar/Documents/igpoc/confluent-sr-latest/schema-registry/avro-converter/src/test/java/io/confluent/connect/avro/mockHSR.java
+/Users/bar/Documents/igpoc/confluent-sr-latest/schema-registry/avro-converter/src/test/java/io/confluent/connect/avro/AvroConverterDynamicSchemaIdTest.java
+/Users/bar/Documents/igpoc/confluent-sr-latest/schema-registry/avro-converter/src/test/java/io/confluent/connect/avro/AvroConverterHSRDynamicSchemaIdTest.java
+/Users/bar/Documents/igpoc/confluent-sr-latest/schema-registry/avro-converter/src/test/java/io/confluent/connect/avro/DeprecatedTestTopicNameStrategy.java
